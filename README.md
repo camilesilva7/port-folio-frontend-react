@@ -155,9 +155,9 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 
 **Camile Silva Pereira**
 
-- GitHub: [@camilesilvapereira7](https://github.com/seu-usuario)
+- GitHub: [camilesilvapereira7](https://github.com/seu-usuario)
 - LinkedIn: [seu-perfil](https://linkedin.com/in/seu-perfil)
-- Email: camilesilvapereira7@gmail.com
+- Email: [camilesilvapereira7@gmail.com]
 
 ## 📞 Suporte
 
