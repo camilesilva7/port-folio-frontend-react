@@ -153,11 +153,11 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 
 ## 👤 Autor
 
-**Seu Nome**
+**Camile Silva Pereira**
 
-- GitHub: [@seu-usuario](https://github.com/seu-usuario)
+- GitHub: [@camilesilvapereira7](https://github.com/seu-usuario)
 - LinkedIn: [seu-perfil](https://linkedin.com/in/seu-perfil)
-- Email: seu.email@exemplo.com
+- Email: camilesilvapereira7@gmail.com
 
 ## 📞 Suporte
 
